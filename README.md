@@ -5,6 +5,7 @@
 https://www.loom.com/share/3ff5572caaec4191bf8e6270cd17f6aa 
 
 📚 E-Learning Student Reactions Analysis
+
 📌 Project Overview
 
 This project analyzes student reactions and engagement patterns in an e-learning environment using machine learning, clustering, and data visualization techniques. The goal was to better understand how factors such as time spent, emoji reactions, participation, and engagement behaviors relate to student interaction patterns and learning experiences.
@@ -12,13 +13,16 @@ This project analyzes student reactions and engagement patterns in an e-learning
 The project combines exploratory data analysis (EDA), feature engineering, clustering, and visualization to identify meaningful behavioral trends among students.
 
 🎯 Objectives
+
 Explore student engagement and reaction behavior in online learning environments
 Identify patterns in participation and emoji reactions
 Analyze relationships between time spent and engagement levels
 Create new behavioral features for deeper analysis
 Apply clustering techniques to segment student interaction patterns
 Visualize behavioral trends using statistical and graphical methods
+
 🛠️ Tools & Libraries
+
 Python
 Pandas
 NumPy
@@ -91,6 +95,7 @@ Davies-Bouldin Index
 The analysis showed that Hierarchical Clustering produced slightly better cluster separation compared to K-Means for this dataset.
 
 📈 Key Findings
+
 Highly engaged students tended to spend more time interacting with the platform.
 Certain emoji reactions appeared more frequently among active participants.
 Some clusters represented highly engaged users, while others reflected lower participation patterns.
@@ -107,6 +112,7 @@ Optimize content engagement methods
 Better understand online participation behavior
 
 ⚠️ Limitations
+
 Some engagement behaviors may overlap across clusters.
 Emoji reactions alone may not fully represent learning quality.
 Clustering methods identify patterns but do not establish causation.
@@ -122,6 +128,6 @@ Adding predictive modeling for student performance
 
 👩‍💻 Author
 
-Julie Figueroa
+Juliana Figueroa
 M.S. Data Science – Grand Canyon University
 GitHub: yuya04-maker
