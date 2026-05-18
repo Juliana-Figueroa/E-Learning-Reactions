@@ -24,10 +24,15 @@ Visualize behavioral trends using statistical and graphical methods
 🛠️ Tools & Libraries
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 📂 Dataset Features
