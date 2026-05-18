@@ -14,12 +14,12 @@ The project combines exploratory data analysis (EDA), feature engineering, clust
 
 🎯 Objectives
 
-Explore student engagement and reaction behavior in online learning environments
-Identify patterns in participation and emoji reactions
-Analyze relationships between time spent and engagement levels
-Create new behavioral features for deeper analysis
-Apply clustering techniques to segment student interaction patterns
-Visualize behavioral trends using statistical and graphical methods
+Explore student engagement and reaction behavior in online learning environments.
+Identify patterns in participation and emoji reactions.
+Analyze relationships between time spent and engagement levels.
+Create new behavioral features for deeper analysis.
+Apply clustering techniques to segment student interaction patterns.
+Visualize behavioral trends using statistical and graphical methods.
 
 🛠️ Tools & Libraries
 
@@ -39,41 +39,43 @@ Scikit-learn
 
 The dataset included variables related to:
 
-Student engagement
-Emoji reactions
-Time spent
-Participation metrics
-Interaction patterns
-Approval/reaction behavior
+Student engagement.
+Emoji reactions.
+Time spent.
+Participation metrics.
+Interaction patterns.
+Approval/reaction behavior.
 
 🔍 Exploratory Data Analysis
 
 The analysis included:
 
-Missing value detection
-Outlier analysis
-Descriptive statistics
-Correlation analysis
-Histograms
-Boxplots
-Heatmaps
-Scatterplots
-Barplots
+Missing value detection.
+Outlier analysis.
+Descriptive statistics.
+Correlation analysis.
+Histograms.
+Boxplots.
+Heatmaps.
+Scatterplots.
+Barplots.
 
 Key behavioral trends were explored, including:
 
 Which emojis were most common among highly engaged students
+
 Whether time spent correlated with positive reactions
+
 Differences in engagement patterns across groups
 
 ⚙️ Feature Engineering
 
 Several new features were created to improve behavioral analysis, including:
 
-Engagement-based indicators
-Time-related behavioral features
-High interaction classifications
-Participation grouping variables
+Engagement-based indicators.
+Time-related behavioral features.
+High interaction classifications.
+Participation grouping variables.
 
 These engineered variables helped improve clustering interpretation and pattern discovery.
 
@@ -82,12 +84,15 @@ These engineered variables helped improve clustering interpretation and pattern 
 The project implemented:
 
 K-Means Clustering
+
 Hierarchical Clustering
 
 Hyperparameters were tuned using:
 
 Elbow Method
+
 Silhouette Score
+
 Dendrogram analysis
 
 📊 Model Evaluation
@@ -95,6 +100,7 @@ Dendrogram analysis
 Clustering performance was evaluated using:
 
 Silhouette Score
+
 Davies-Bouldin Index
 
 The analysis showed that Hierarchical Clustering produced slightly better cluster separation compared to K-Means for this dataset.
@@ -110,11 +116,11 @@ Behavioral overlap existed between some student groups, indicating that engageme
 
 The findings could help e-learning platforms:
 
-Identify students at risk of disengagement
-Improve personalized learning recommendations
-Enhance student interaction strategies
-Optimize content engagement methods
-Better understand online participation behavior
+Identify students at risk of disengagement.
+Improve personalized learning recommendations.
+Enhance student interaction strategies.
+Optimize content engagement methods.
+Better understand online participation behavior.
 
 ⚠️ Limitations
 
@@ -126,10 +132,10 @@ Clustering methods identify patterns but do not establish causation.
 
 Potential future enhancements include:
 
-Testing additional clustering algorithms
-Incorporating sentiment analysis on student comments
-Using time-series engagement analysis
-Adding predictive modeling for student performance
+Testing additional clustering algorithms.
+Incorporating sentiment analysis on student comments.
+Using time-series engagement analysis.
+Adding predictive modeling for student performance.
 
 👩‍💻 Author
 
